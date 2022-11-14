@@ -11,7 +11,7 @@ The book is written in a light and often humourous tone, while providing quality
 ### Is this book important ?
 The author, [Chip Huyen](https://huyenchip.com/), is included among  Linkedin [Top Voices in Software Development (2019)](https://www.linkedin.com/pulse/linkedin-top-voices-2019-software-development-daniel-bean/) and [Top Voices in Data Science & AI (2020)](https://www.linkedin.com/pulse/linkedin-top-voices-2020-data-science-ai-jessi-hempel/). She also teaches [CS 329S: Machine Learning Systems Design](https://cs329s.stanford.edu/) at Stanford University. The book summarized in these cheat sheets is also an Amazon #1 bestseller in Artificial Intelligence. Given the author's credentials and the book's popularity, future MLOps practices should be greatly influenced by the content of this book. 
 
-## The Cheat sheets
+## The cheat sheets
 ### Why make them ?
 I made these cheat sheets in order to better navigate and memorize all the knowledge in DMLS. They contain the main information presented in every Chapter without the full arguments, examples and rationales. Here's a few things to note about their content :
 - They represent **my own subjective views** on what should be remembered from the book.
