@@ -14,7 +14,7 @@ The author, [Chip Huyen](https://huyenchip.com/), is included among  Linkedin [T
 ## The Cheat sheets
 ### Why make them ?
 I made these cheat sheets in order to better navigate and memorize all the knowledge in DMLS. They contain the main information presented in every Chapter without the full arguments, examples and rationales. Here's a few things to note about their content :
-- Like any summaries, they represent **my own subjective views** on what should be remembered from the book.
+- They represent **my own subjective views** on what should be remembered from the book.
 - They are cheat sheets, not summaries: You need to read the book to get the full argument, then use these to navigate what you learned.
 - These cheat sheets were not proofread by the author, nor do they live up to their writing/formatting standards.
 
