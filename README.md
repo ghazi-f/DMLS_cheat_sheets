@@ -1,4 +1,4 @@
-# DMLS_cheat_sheets
+# DMLS Cheat Sheets
 Cheat sheets based on each chapter of Chip Huyen's book "Designing Machine Learning Systems"
 
 ## Designing Machine Learning Systems (DMLS)
