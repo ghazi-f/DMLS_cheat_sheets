@@ -9,7 +9,7 @@ The author, [Chip Huyen](https://huyenchip.com/), is included among  Linkedin [T
 ## The Present MindMaps
 I made these cheat sheets in order to better navigate and memorize all the knowledge in DMLS. Each PDF hereabove summarize one chapter from the book as a [Mind Map](https://en.wikipedia.org/wiki/Mind_map). To make them, I used [FreePlane](https://www.freeplane.org/), an open-source MindMapping tool which is pretty intuitive and fast to get a hang of. The ```.mm``` files are native FreePlane mindmaps which can be modified through it. Here's an example view of one of the Mind Maps:
 ![me](https://github.com/ghazi-f/DMLS_cheat_sheets/blob/main/DMLS%20Chapter%201%20Overview.png)
-:warning: this png has only been included to be displayed in the readme file. The actual MindMaps are the PDFs which ar vectorized and thus more zoomable.
+:warning: this png has only been included to be displayed in the readme file. The actual MindMaps are the PDFs which are vectorized and thus more zoomable.
 
 ## Possible Future Changes and Contributions
 I may correct some typos or add some details I missed throughout the Chapters. However, if anyone feels like they would like to append their own knowledge to the diagrams, I will add a new shape to the diagram legends (next to examples and tools) as a marker for knowledge that's not part of the book.
